@@ -14,4 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Agus Nugroho's card name](https://cardivo.vercel.app/api?name=Agus%20Nugroho&description=Hi,%20i%27m%20a%20web%20developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/41666556?v=4&backgroundColor=%23ecf0f1&instagram=agus_nugrh&github=Blackscarft&pattern=topography&colorPattern=%23dddddd)
+![Agus Nugroho's card name](https://cardivo.vercel.app/api?name=Agus%20Nugroho&description=Hi,%20i%27m%20a%20web%20developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/41666556?v=4&backgroundColor=%23ecf0f1&instagram=agus_nugrh&github=Blackscarft&pattern=topography&colorPattern=%23dddddd&site=123agusnugroho123@gmail.com)
